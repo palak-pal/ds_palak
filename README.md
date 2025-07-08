@@ -1,5 +1,8 @@
 # 📊 Analysis of Trader Behavior & Market Sentiment
 
+Google Colab Notebook
+All analysis code is provided in the following Google Colab notebook:   https://colab.research.google.com/drive/1k29K820aCyA49tCGtrmOaocYitxc6O87
+
 This repository contains the code, data outputs, and report analyzing how trader behavior from Hyperliquid aligns with the Bitcoin Fear & Greed Index.
 
 > ⚠️ **All work must strictly follow this structure:**  

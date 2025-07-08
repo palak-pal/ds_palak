@@ -9,16 +9,14 @@ This repository contains the code, data outputs, and report analyzing how trader
 
 ## 🏗 Project Structure
 
-
-
 ds_palak/
-├── ds_task.ipynb 
+├── ds_task.ipynb # Google Colab notebook with analysis
 ├── csv_files/ # Processed & intermediate data outputs
 │ └── *.csv
 ├── outputs/ # Charts and visualization files
 │ └── *.png / *.jpg
 ├── ds_report.pdf # Final summary report of findings & recommendations
-└── README.md 
+└── README.md
 
 ---
 
